@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/prayer-times/*"
+  to = "https://script.google.com/macros/s/AKfycbzG1PEjY3Gopuw9G59oNY2XYeKyZanQcXqYCXgw6Xo3mk5yqrE/exec?google_sheet_id=:splat"
+  status = 200
+
+[[redirects]]
+  from = "/prayer-screen-config/*"
+  to = "https://script.google.com/macros/s/AKfycbxAG6RD-hfL-HzZ_YMBeiXa4mnkJBpt1QhrJmvHIU18KUUxPuU/exec?google_sheet_id=:splat"
+  status = 200
+
+[[redirects]]
+  from = "/hadith-data/*"
+  to = "https://script.google.com/macros/s/AKfycby6jZBf7sKGLte5mdxbqeENeRfZsX_XZqntI-6n8-9Z3-8mYUio/exec?google_sheet_id=:splat"
+  status = 200
