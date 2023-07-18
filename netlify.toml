@@ -12,3 +12,8 @@
   from = "/hadith-data/*"
   to = "https://script.google.com/macros/s/AKfycby6jZBf7sKGLte5mdxbqeENeRfZsX_XZqntI-6n8-9Z3-8mYUio/exec?google_sheet_id=:splat"
   status = 200
+
+[[redirects]]
+  from = "/mosque-data/*"
+  to = "https://script.google.com/macros/s/AKfycbxrgy_gD021spgbbgkf8-rZ_lK9rgv-8Xif6feKEn3LHnohwmCivxQDTidF_CsF4vyp2A/exec?id=:splat"
+  status = 200
