@@ -15,5 +15,5 @@
 
 [[redirects]]
   from = "/mosque-data/*"
-  to = "https://script.google.com/macros/s/AKfycbwwZcx6VU9bBSrD3IDJvSC7hqrNc_zaI70R2uDkLwvNriTTWJFoD3OLfiUBak7sEoqZ_A/exec?id=:splat"
+  to = "https://script.google.com/macros/s/AKfycby28q8yIrnVh9TTvsB7YUDvF8kEnZDGkRlo9KFz5S4sR8IBRIN0nOwGzOhPAk36FEPg/exec?id=:splat"
   status = 200
